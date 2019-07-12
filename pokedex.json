@@ -77,7 +77,7 @@
     "shiny_female": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_003_01_shiny.png",
     "type": [
       "Planta",
-      "Veneno"
+      "Veneno",
       "Favorito"
     ],
     "height": "2.01 m",
@@ -170,7 +170,7 @@
     "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_006_00_shiny.png",
     "type": [
       "Fuego",
-      "Volador"
+      "Volador",
       "Favorito"
     ],
     "height": "1.70 m",
@@ -259,7 +259,7 @@
     "img": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_009_00.png",
     "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_009_00_shiny.png",
     "type": [
-      "Agua"
+      "Agua",
       "Favorito"
     ],
     "height": "1.60 m",

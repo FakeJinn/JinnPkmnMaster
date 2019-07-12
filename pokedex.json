@@ -78,6 +78,7 @@
     "type": [
       "Planta",
       "Veneno"
+      "Favorito"
     ],
     "height": "2.01 m",
     "weight": "100.0 kg",
@@ -170,6 +171,7 @@
     "type": [
       "Fuego",
       "Volador"
+      "Favorito"
     ],
     "height": "1.70 m",
     "weight": "90.5 kg",
@@ -258,6 +260,7 @@
     "shiny": "https://raw.githubusercontent.com/ZeChrales/PogoAssets/master/pokemon_icons/pokemon_icon_009_00_shiny.png",
     "type": [
       "Agua"
+      "Favorito"
     ],
     "height": "1.60 m",
     "weight": "85.5 kg",
